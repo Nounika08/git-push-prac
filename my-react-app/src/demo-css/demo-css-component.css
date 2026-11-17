@@ -1,0 +1,9 @@
+.element {
+    background-color: deeppink;
+    color: pink;
+    font-size: 20px;
+};
+
+};
+
+export default DemoCssComponent;
